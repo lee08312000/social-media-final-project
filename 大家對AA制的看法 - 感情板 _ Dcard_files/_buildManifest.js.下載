@@ -1,0 +1,361 @@
+self.__BUILD_MANIFEST = {
+  "/_error": [
+    "static/chunks/0-wzqv4l5yo46.js"
+  ],
+  "/campaignSite/[campaignSiteId]": [
+    "static/chunks/08k80bd_s3js2.js"
+  ],
+  "/chats": [
+    "static/chunks/15bgk.7td9uzz.js"
+  ],
+  "/collect-job-title": [
+    "static/chunks/069ipejl0wmu0.js"
+  ],
+  "/conduit/draft": [
+    "static/chunks/0jm6ri-h1nxd_.js"
+  ],
+  "/conduit/draft/[draftId]": [
+    "static/chunks/0auymq_tonv2w.js"
+  ],
+  "/conduit/preview/[draftId]": [
+    "static/chunks/07gsllioi_0bg.js"
+  ],
+  "/dcard": [
+    "static/chunks/12zhwx3z9yg3m.js"
+  ],
+  "/download": [
+    "static/chunks/0g4m9.0ch5fut.js"
+  ],
+  "/f": [
+    "static/chunks/04mgu3bn4di7t.js"
+  ],
+  "/f/[forumAlias]": [
+    "static/chunks/0iq_ie4zmibkw.js"
+  ],
+  "/f/[forumAlias]/p/[postId]": [
+    "static/chunks/0.-g3_up~b4cl.js"
+  ],
+  "/f/[forumAlias]/p/[postId]/b/[commentDoorplate]": [
+    "static/chunks/0i~6nduckdj3d.js"
+  ],
+  "/f/[forumAlias]/p/[postId]/edit": [
+    "static/chunks/0mm9yiht~nnoi.js"
+  ],
+  "/f/[forumAlias]/p/[postId]/filter/b": [
+    "static/chunks/07sphlq1vff21.js"
+  ],
+  "/f/[forumAlias]/postTask/[postTaskId]": [
+    "static/chunks/0zvzj0~9656vs.js"
+  ],
+  "/f/[forumAlias]/rule": [
+    "static/chunks/12~wz0_lpu1pd.js"
+  ],
+  "/f/[forumAlias]/selected": [
+    "static/chunks/096_p.rv~i_71.js"
+  ],
+  "/f/[forumAlias]/selected/[collectionId]": [
+    "static/chunks/12~ljgcbog-4s.js"
+  ],
+  "/f/[forumAlias]/surveyTeam": [
+    "static/chunks/0~fh3kyz_ws4o.js"
+  ],
+  "/fastValidation": [
+    "static/chunks/1749qu0ynh8hw.js"
+  ],
+  "/forum/all": [
+    "static/chunks/0h_gred~1.fn~.js"
+  ],
+  "/forum/list": [
+    "static/chunks/0c.xr60u3srs0.js"
+  ],
+  "/forum/popular": [
+    "static/chunks/0y51uoo_2uto-.js"
+  ],
+  "/forum/subscribed": [
+    "static/chunks/0-g-j0jy8soer.js"
+  ],
+  "/hacker": [
+    "static/chunks/03l4pqgda_xtv.js"
+  ],
+  "/identityValidation": [
+    "static/chunks/0ohg59i2if0yk.js"
+  ],
+  "/leaderboard": [
+    "static/chunks/158zssksobwvv.js"
+  ],
+  "/loginVerification": [
+    "static/chunks/10ygv5pz5eh-7.js"
+  ],
+  "/moderator/commentReports/[forumAlias]": [
+    "static/chunks/08kw.wuxu_bng.js"
+  ],
+  "/moderator/forumInfo/[forumAlias]": [
+    "static/chunks/0ccvv8dbthzqw.js"
+  ],
+  "/moderator/forumRules/[forumAlias]": [
+    "static/chunks/15sfnfhw6ypg6.js"
+  ],
+  "/moderator/globalRules/[forumAlias]": [
+    "static/chunks/0y3sfus~copq4.js"
+  ],
+  "/moderator/postReports/[forumAlias]": [
+    "static/chunks/0vchnm9he3g-~.js"
+  ],
+  "/moderator/postTemplate/[forumAlias]": [
+    "static/chunks/0s_odt.2~1zcc.js"
+  ],
+  "/my": [
+    "static/chunks/074-zfhwhg88j.js"
+  ],
+  "/my/achievements": [
+    "static/chunks/0u5850_3bjtln.js"
+  ],
+  "/my/collections": [
+    "static/chunks/0bm-whc..xha3.js"
+  ],
+  "/my/configs": [
+    "static/chunks/0zjpkoohdrjj~.js"
+  ],
+  "/my/configs/plan-subscription": [
+    "static/chunks/0m6ht2~ly29vq.js"
+  ],
+  "/my/following": [
+    "static/chunks/0z13gkvtj5ja_.js"
+  ],
+  "/my/friends": [
+    "static/chunks/0~3ur0ug-xamq.js"
+  ],
+  "/my/hidden-activities": [
+    "static/chunks/0tuhtc4nrlo6q.js"
+  ],
+  "/my/import": [
+    "static/chunks/0f0ee5-k64fw2.js"
+  ],
+  "/my/persona": [
+    "static/chunks/15tzr2zhly31c.js"
+  ],
+  "/my/posts": [
+    "static/chunks/185wd9l1_fh3z.js"
+  ],
+  "/my/profile": [
+    "static/chunks/07_abfraw01qh.js"
+  ],
+  "/my/scheduled-posts": [
+    "static/chunks/0g8zqks0lv11c.js"
+  ],
+  "/my/topics": [
+    "static/chunks/0byfwra4f0.re.js"
+  ],
+  "/new-post": [
+    "static/chunks/02m9wdy7oh44o.js"
+  ],
+  "/notification": [
+    "static/chunks/06t6ij4y~pjfr.js"
+  ],
+  "/passwords/reset/[token]": [
+    "static/chunks/00~54.9b2j2d_.js"
+  ],
+  "/persona": [
+    "static/chunks/0a6lse4fqy6-a.js"
+  ],
+  "/persona/jot": [
+    "static/chunks/0tu82390cw.tq.js"
+  ],
+  "/premium": [
+    "static/chunks/0a79s60oh7fnu.js"
+  ],
+  "/premium-terms": [
+    "static/chunks/00n9ta.3zd-td.js"
+  ],
+  "/privateMessages": [
+    "static/chunks/0b.wcs7l7pioy.js"
+  ],
+  "/router-redirect": [
+    "static/chunks/0uxmupogo.kxb.js"
+  ],
+  "/search": [
+    "static/chunks/0_qpra~yey_u5.js"
+  ],
+  "/search/comments": [
+    "static/chunks/0oowfc.kd9yv5.js"
+  ],
+  "/search/forums": [
+    "static/chunks/0wgaw_iwdt_2c.js"
+  ],
+  "/search/personas": [
+    "static/chunks/0iag-8pmr20kd.js"
+  ],
+  "/search/posts": [
+    "static/chunks/0pda--9y~nr98.js"
+  ],
+  "/search/topics": [
+    "static/chunks/0scxzhvtewyi2.js"
+  ],
+  "/signup": [
+    "static/chunks/0c77ssfa2aag2.js"
+  ],
+  "/signup/email/activate": [
+    "static/chunks/0fk1ace8gh337.js"
+  ],
+  "/signup/email/confirm": [
+    "static/chunks/0fq6_dyfyxg9t.js"
+  ],
+  "/signup/email/manage/[email]": [
+    "static/chunks/03qofxow9glig.js"
+  ],
+  "/signup/verify/profession": [
+    "static/chunks/0btqtu5emtfzl.js"
+  ],
+  "/signup/verify/schoolEmail": [
+    "static/chunks/0xfimexec0o4q.js"
+  ],
+  "/surveyTeam/f/[forumAlias]/p/[postId]/signup": [
+    "static/chunks/087.a-j7~g5kx.js"
+  ],
+  "/surveyTeam/f/[forumAlias]/p/[postId]/survey": [
+    "static/chunks/05do280xdonb..js"
+  ],
+  "/terms": [
+    "static/chunks/0rqim4g28e9vt.js"
+  ],
+  "/topics/[topic]": [
+    "static/chunks/0x6cnnr8m~ysw.js"
+  ],
+  "__rewrites": {
+    "afterFiles": [
+      {
+        "source": "/chats/:channelId",
+        "destination": "/chats"
+      },
+      {
+        "source": "/privateMessages/:channelId",
+        "destination": "/privateMessages"
+      },
+      {
+        "source": "/signup/email/confirm/:email",
+        "destination": "/signup/email/confirm"
+      },
+      {
+        "source": "/@",
+        "destination": "/persona"
+      },
+      {
+        "source": "/@:uid",
+        "destination": "/persona"
+      },
+      {
+        "source": "/@:uid/jot/:jotId",
+        "destination": "/persona/jot"
+      },
+      {
+        "source": "/@:uid/post/:postId",
+        "destination": "/f/persona_:uid/p/:postId"
+      },
+      {
+        "source": "/@:uid/post/:postId/b/:commentDoorplate",
+        "destination": "/f/persona_:uid/p/:postId/b/:commentDoorplate"
+      },
+      {
+        "source": "/@:uid/post/:postId/edit",
+        "destination": "/f/persona_:uid/p/:postId/edit"
+      },
+      {
+        "source": "/@:uid/post/:postId/filter/b",
+        "destination": "/f/persona_:uid/p/:postId/filter/b"
+      },
+      {
+        "source": "/my/friends/:friendId",
+        "destination": "/my/friends"
+      },
+      {
+        "source": "/my/:configPath(configs|validations)",
+        "destination": "/my/configs"
+      },
+      {
+        "source": "/(loginVerification|loginVerifications/verify)/:verificationId",
+        "destination": "/loginVerification"
+      }
+    ],
+    "beforeFiles": [],
+    "fallback": []
+  },
+  "sortedPages": [
+    "/_app",
+    "/_error",
+    "/campaignSite/[campaignSiteId]",
+    "/chats",
+    "/collect-job-title",
+    "/conduit/draft",
+    "/conduit/draft/[draftId]",
+    "/conduit/preview/[draftId]",
+    "/dcard",
+    "/download",
+    "/f",
+    "/f/[forumAlias]",
+    "/f/[forumAlias]/p/[postId]",
+    "/f/[forumAlias]/p/[postId]/b/[commentDoorplate]",
+    "/f/[forumAlias]/p/[postId]/edit",
+    "/f/[forumAlias]/p/[postId]/filter/b",
+    "/f/[forumAlias]/postTask/[postTaskId]",
+    "/f/[forumAlias]/rule",
+    "/f/[forumAlias]/selected",
+    "/f/[forumAlias]/selected/[collectionId]",
+    "/f/[forumAlias]/surveyTeam",
+    "/fastValidation",
+    "/forum/all",
+    "/forum/list",
+    "/forum/popular",
+    "/forum/subscribed",
+    "/hacker",
+    "/identityValidation",
+    "/leaderboard",
+    "/loginVerification",
+    "/moderator/commentReports/[forumAlias]",
+    "/moderator/forumInfo/[forumAlias]",
+    "/moderator/forumRules/[forumAlias]",
+    "/moderator/globalRules/[forumAlias]",
+    "/moderator/postReports/[forumAlias]",
+    "/moderator/postTemplate/[forumAlias]",
+    "/my",
+    "/my/achievements",
+    "/my/collections",
+    "/my/configs",
+    "/my/configs/plan-subscription",
+    "/my/following",
+    "/my/friends",
+    "/my/hidden-activities",
+    "/my/import",
+    "/my/persona",
+    "/my/posts",
+    "/my/profile",
+    "/my/scheduled-posts",
+    "/my/topics",
+    "/new-post",
+    "/notification",
+    "/passwords/reset/[token]",
+    "/persona",
+    "/persona/jot",
+    "/premium",
+    "/premium-terms",
+    "/privateMessages",
+    "/router-redirect",
+    "/search",
+    "/search/comments",
+    "/search/forums",
+    "/search/personas",
+    "/search/posts",
+    "/search/topics",
+    "/signup",
+    "/signup/email/activate",
+    "/signup/email/confirm",
+    "/signup/email/manage/[email]",
+    "/signup/verify/profession",
+    "/signup/verify/schoolEmail",
+    "/surveyTeam/f/[forumAlias]/p/[postId]/signup",
+    "/surveyTeam/f/[forumAlias]/p/[postId]/survey",
+    "/terms",
+    "/topics/[topic]"
+  ]
+};self.__BUILD_MANIFEST_CB && self.__BUILD_MANIFEST_CB()
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[n]="7b0d7aa1-15ea-5c2a-80ed-24ce20447d09")}catch(e){}}();
+//# debugId=7b0d7aa1-15ea-5c2a-80ed-24ce20447d09
